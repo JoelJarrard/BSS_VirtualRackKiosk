@@ -14,7 +14,7 @@ ul, li, h3, h2, h1, p{
     }
 
 div.button1     {
-        width:487px;
+        width:324px;
         height:90px;
         position:absolute;
         left: 54px;
@@ -35,10 +35,10 @@ div.button1:hover       {
         }
 
 div.button2     {
-        width:485px;
+        width:324px;
         height:90px;
         position:absolute;
-        left: 541px;
+        left: 378px;
         top: 324px;
         z-index:1;
         background-color:none;
@@ -288,14 +288,5 @@ div.doublerackBLUBIBBOB {
         padding:0;
         margin:0;
         background-color:black;
-        float:left;
-        }
-
-div.septuplerack {
-        width:972px;
-        height:822px;
-        padding:0;
-        margin:0;
-        background-color:red;
         float:left;
         }
